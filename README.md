@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wlczhu
-- 👀 I’m interested in Pokemon trading card game(PTCG), Riding motorcycle, Overwatch.
+- 👋 Hi, I’m @wlczhu from Nanjing.
+- 👀 I’m interested in Board Game(LARP, PTCG), Motorcycle, Video Gaming(Steam, Switch, PS etc., playing FPS most)
 - 🌱 I’m currently learning C/C++ programming, Linux system, Embedded software.
-- 💞️ I’m looking to collaborate on language using.
+- 💞️ I’m looking to collaborate on Coding.
 - 📫 How to reach me? Email to wlczhu@gmail.com. Thanks!
 
 <!---
